@@ -1,1 +1,1 @@
-# Hackathon-2023-Project-Mental-Health-Assistant
+# Hackathon-2023-Project
